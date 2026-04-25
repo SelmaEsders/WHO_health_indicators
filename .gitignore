@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Data files
+WHS2025_DATADOWNLOAD.csv
+
+
 # C extensions
 *.so
 
